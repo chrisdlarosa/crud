@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsBWRnkecqwDONO9jjQho8jnELzoj18FkJ7vTDCJ/fuqQIxqnkmXKAqPhR2kBquc8XDFfb0zJ9CahSLsE7aP8A==",
+  "dgSpecHash": "XYrVhzlbOMTnv5XMEpcJxBJoTnbg79kivpc3WS2fk/JxkPJIivYvjlCKxoc2K2IttspnOv4tQzlZwnvhAY2GCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chris\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\chris\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<WebApp.Models.Countries>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1><i class="fa-solid fa-globe"></i> Countries</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary"><i class="fa-solid fa-plus"></i> Create New</a>
+</p>
+<table class="table table-sm table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.COUNTRY_NAME)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Regions)
+            </th>
+            <th>Options</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.COUNTRY_NAME)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Regions.REGION_ID)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.COUNTRY_ID" class="btn btn-warning"><i class="fa-solid fa-pen"></i></a>
+                    <a asp-action="Details" asp-route-id="@item.COUNTRY_ID" class="btn btn-info"><i class="fa-solid fa-circle-info"></i></a>
+                    <a asp-action="Delete" asp-route-id="@item.COUNTRY_ID" class="btn btn-danger"><i class="fa-solid fa-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

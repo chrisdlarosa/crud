@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\source\\repos\\crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|c:\\users\\chris\\source\\repos\\crud\\webapp\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|c:\\users\\chris\\source\\repos\\crud\\webapp\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|c:\\users\\chris\\source\\repos\\crud\\webapp\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|c:\\users\\chris\\source\\repos\\crud\\webapp\\views\\countries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\countries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|c:\\users\\chris\\source\\repos\\crud\\webapp\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|c:\\users\\chris\\source\\repos\\crud\\webapp\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1411AD02-1F97-4B55-9508-87D512616E3A}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Countries\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Countries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Countries\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Countries\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T00:33:59.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwCwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T00:14:07.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Countries\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Countries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Countries\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Countries\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T00:13:39.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CountriesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:10:18.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T23:58:24.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Customers\\index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Customers\\index.cshtml",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\crud\\WebApp\\Views\\Customers\\index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Customers\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T23:38:12.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,6 +11,8 @@ namespace WebApp.Data
         }
 
         public DbSet<Customers> customers { get; set; }
+        public DbSet<Countries> countries { get; set; }
+        public DbSet<Regions> regions { get; set; }
         /*
         public DbSet<Contacts> contacts { get; set; }
         public DbSet<Countries> countries { get; set; }
